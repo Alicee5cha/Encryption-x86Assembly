@@ -1,0 +1,12 @@
+
+
+FoCA Encryption program results (Alice Chambers) Encryption key = 'Z'
+Date: 16/12/2019  Time: 18:19:45
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ë­ln/	Hex = eb  ad  6c  6e  2f  
+
+Decrypted string = hello	Hex = 68  65  6c  6c  6f  
+
+-------------------------------------------------------------
