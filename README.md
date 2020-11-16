@@ -1,2 +1,2 @@
-# Encryption_x86_assembly
+# Encryption-x86Assembly
 encryption program written in x86 assembly code
